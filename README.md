@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">A Software Developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/rsprmKZ/output-onlinegiftools.gif"/>
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/3SZJP8r/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-st.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifbabayev05&label=Profile%20views&color=0e75b6&style=flat" alt="arifbabayev05" /> </p>
 
 - 🔭 I’m currently learning **React on FrontSide and Asp.Net on Backend Side**
