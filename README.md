@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Javascript and C#**
 
-- 📫 How to reach me **arifrb@code.edu.az**
+- 📫 Email : **arifrb@code.edu.az**
 
-- ⚡ Fun fact **Coding is easy, it gets harder as you learn.**
+- ⚡ **Coding is easy, it gets harder as you learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
