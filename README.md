@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **React on FrontSide and Asp.Net on Backend Side**
 
-- 👨‍💻 My Portfolio [https://teal-cheesecake-661b06.netlify.app/](https://teal-cheesecake-661b06.netlify.app/)
+- 👨‍💻 My Portfolio [http://arif.babayev.lovable.app/](http://arif.babayev.lovable.app/)
 
 - 💬 Ask me about **Javascript and C#**
 
